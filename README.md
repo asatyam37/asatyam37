@@ -78,7 +78,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asatyam37&theme=radical" height="150" alt="Most Commit Language" />
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2006satyamgupta-bit&theme=radical" height="150" alt="Stats" />
+  <!--- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2006satyamgupta-bit&theme=radical" height="150" alt="Stats" /> --->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asatyam37&theme=radical&utcOffset=5.3" height="150" alt="Productive Time" />
 </p>
 
