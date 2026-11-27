@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Satyam+Kumar;Full-stack+developer+in+the+making;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Satyam+Gupta;" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -15,7 +15,7 @@
 
 - 🎓 <b><i>B.Tech CSE Student</i></b>
 - 🛠️ <b><i>Strengthening my DSA and problem-solving skills</i></b>
-- 💻 <b><i>Exploring full-stack web development</i></b>
+<!--- 💻 <b><i>Exploring full-stack web development</i></b> --->
 
 ### 🔗 Let's Connect
 
