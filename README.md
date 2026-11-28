@@ -2,9 +2,6 @@
   <img src="banner.png" alt="banner" width="100%" />
 </p>
 
-<!-- <p align="center">
-  <img src="./profile-card.svg" alt="GitHub profile card" width="100%" />
-</p> -->
 
 
 <h1 align="center">
